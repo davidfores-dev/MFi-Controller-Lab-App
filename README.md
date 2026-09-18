@@ -127,13 +127,15 @@ Si encuentras algún problema, puedes comunicarlo mediante la sección **Issues*
 ## Uso básico
 
 1. Instala MFi Controller Lab.
-2. Empareja tu mando mediante Bluetooth.
-3. Abre MFi Controller Lab.
-4. Comprueba que el mando aparece correctamente.
-5. Utiliza el TEST para comprobar sus controles.
-6. Configura el perfil o remapeo si fuera necesario.
-7. Utiliza el mando en una aplicación compatible.
-
+2. Empareja tu mando mediante Ajustes>Bluetooth. Si ya esta en la lista de mandos compatibles simplemente usalo.
+3. Si no aparece entra en la app>añadir un nuevo mando>emparejar/preparar mando
+4. Abre MFi Controller Lab.
+5. Comprueba que el mando aparece correctamente.
+6. Utiliza el TEST para comprobar sus controles.
+7. Configura el perfil o remapeo si fuera necesario.
+8. Utiliza el mando en una aplicación compatible.
+9. Tambien puedes probar a importar un mando nuevo.
+    
 Los mandos genéricos pueden requerir un proceso inicial de identificación y configuración dentro de MFi Controller Lab.
 
 ---
@@ -349,13 +351,15 @@ If you encounter a problem, please report it through the **Issues** section of t
 
 ## Basic usage
 
-1. Install MFi Controller Lab.
-2. Pair your controller through Bluetooth.
-3. Open MFi Controller Lab.
-4. Check that the controller is correctly detected.
-5. Use TEST to verify its controls.
-6. Configure the controller profile or remapping if necessary.
-7. Use the controller in a compatible application.
+1. Install the MFi Controller Lab app.
+2. Pair your controller via Settings > Bluetooth. If it is already in the list of compatible controllers, simply use it.
+3. If it does not appear, open the app > Add new controller > Pair/Prepare controller.
+4. Open MFi Controller Lab.
+5. Verify that the controller appears correctly.
+6. Use the TEST function to check your controls.
+7. Configure the profile or remap controls if necessary.
+8. Use the controller in a compatible application.
+9. You can also try importing a new controller.
 
 Generic controllers may require an initial identification and configuration process inside MFi Controller Lab.
 
