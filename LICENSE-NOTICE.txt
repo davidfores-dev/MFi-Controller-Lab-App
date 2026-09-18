@@ -1,0 +1,56 @@
+MFi Controller Lab
+Copyright © 2026 David Forés. Todos los derechos reservados.
+Copyright © 2026 David Forés. All rights reserved.
+
+
+ESPAÑOL
+=======
+
+MFi Controller Lab es software propietario distribuido en formato binario.
+
+Se permite descargar, instalar y utilizar las versiones binarias oficiales
+de MFi Controller Lab para uso personal y no comercial.
+
+El código fuente no se distribuye.
+
+No se concede permiso para copiar, modificar, redistribuir, sublicenciar,
+vender, reempaquetar o publicar versiones modificadas del software,
+salvo en aquellos casos en los que la legislación aplicable no permita
+restringir alguna de estas actividades.
+
+No está permitido distribuir versiones modificadas utilizando el nombre
+MFi Controller Lab ni presentar este software como obra propia o de otra
+persona.
+
+Los componentes, bibliotecas, marcas y programas de terceros incluidos
+o utilizados por MFi Controller Lab continúan sujetos a las licencias y
+derechos de sus respectivos propietarios.
+
+Este aviso se aplica únicamente a aquellos componentes sobre los que el
+autor de MFi Controller Lab posea los derechos correspondientes.
+
+
+ENGLISH
+=======
+
+MFi Controller Lab is proprietary software distributed in binary form.
+
+Permission is granted to download, install and use the official binary
+releases of MFi Controller Lab for personal, non-commercial use.
+
+The source code is not distributed.
+
+No permission is granted to copy, modify, redistribute, sublicense, sell,
+repackage, or publish modified versions of the software, except where
+such restrictions are prohibited by applicable law.
+
+Redistribution of modified versions under the MFi Controller Lab name,
+or presentation of this software as the work of another person, is not
+permitted.
+
+Third-party components, libraries, trademarks and software included in
+or used by MFi Controller Lab remain subject to the licenses and rights
+of their respective owners.
+
+This notice applies only to components for which the author of
+MFi Controller Lab holds the applicable rights.
