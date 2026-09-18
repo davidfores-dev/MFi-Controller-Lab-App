@@ -1,0 +1,18 @@
+Package: com.davidfores.mficontrollerlab
+Name: MFi Controller Lab
+Version: 1.0.97-205
+Architecture: iphoneos-arm
+Section: Utilities
+Priority: optional
+Maintainer: David Forés
+Author: David Forés
+Depends: firmware (>= 9.0), firmware (<< 10.0), mobilesubstrate
+Tag: role::enduser
+Description: MFi Controller Lab 1.0.97 Build 205 with Driver 4.0 and Hybrid 3.0.
+ Complete binary release for compatible jailbroken iOS 9 armv7 devices.
+Filename: debs/com.davidfores.mficontrollerlab_1.0.97-205_iphoneos-arm.deb
+Size: 17404474
+MD5sum: 826b45289f625a147a8c0b02a8779b35
+SHA1: 9a8024b36e5e46207ffcceaad49ec31436fc6b9d
+SHA256: bca7ba9e3753f7c2022972fb9d7d8e8f519c26b8c5e3fc56dd4f75b1e771f7a4
+

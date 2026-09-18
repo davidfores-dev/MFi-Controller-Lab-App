@@ -1,0 +1,8 @@
+Origin: MFi Controller Lab
+Label: MFi Controller Lab
+Suite: stable
+Version: 1.0
+Codename: ios9
+Architectures: iphoneos-arm
+Components: main
+Description: MFi Controller Lab public binary repository for compatible jailbroken iOS 9 devices.
