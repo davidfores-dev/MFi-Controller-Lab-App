@@ -32,6 +32,7 @@ Se recomienda no instalar MFi Controller Lab en dispositivos que contengan infor
 ## ¿Qué es MFi Controller Lab?
 
 MFi Controller Lab permite trabajar con diferentes tipos de mandos en dispositivos iOS antiguos con jailbreak, proporcionando una capa adicional de compatibilidad entre los controladores físicos, las aplicaciones compatibles con mandos MFi y otras aplicaciones como RetroArch.
+Permite ademas conectar dos mandos simultaneos diferentes.
 
 El proyecto incluye, entre otros componentes:
 
@@ -257,6 +258,7 @@ It is recommended not to install MFi Controller Lab on devices containing import
 ## What is MFi Controller Lab?
 
 MFi Controller Lab enables the use of different types of game controllers on older jailbroken iOS devices by providing an additional compatibility layer between physical controllers, MFi-compatible applications, and other applications such as RetroArch.
+It also allows for the connection of two different controllers simultaneously.
 
 The project includes, among other components:
 
