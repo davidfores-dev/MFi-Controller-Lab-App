@@ -91,6 +91,16 @@ dpkg -i com.davidfores.mficontrollerlab_1.0.97-205_iphoneos-arm.deb
 
 Dependiendo de la configuración del dispositivo, puede ser necesario realizar un respring o reiniciar determinados servicios después de la instalación.
 
+### Instalación desde Cydia
+
+Añade la siguiente fuente en Cydia:
+
+`https://davidfores-dev.github.io/MFi-Controller-Lab-App/`
+
+Después busca **MFi Controller Lab** e instala el paquete.
+
+### Instalación manual
+
 ---
 
 ## Antes de instalar
@@ -303,6 +313,16 @@ dpkg -i com.davidfores.mficontrollerlab_1.0.97-205_iphoneos-arm.deb
 ```
 
 Depending on the device configuration, a respring or restart of certain services may be required after installation.
+
+### Installation via Cydia
+
+Add the following source to Cydia:
+
+`https://davidfores-dev.github.io/MFi-Controller-Lab-App/`
+
+Then search for **MFi Controller Lab** and install the package.
+
+### Manual installation
 
 ---
 
