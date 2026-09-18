@@ -1,6 +1,8 @@
 # MFi-Controller-Lab-App
 
-<img width="1024" height="768" alt="ipad mando retroarch" src="https://github.com/user-attachments/assets/1f04bbe6-9e93-4342-a9c2-a34858b1c74c" />
+<img width="4032" height="3024" alt="IMG_2740" src="https://github.com/user-attachments/assets/54a2a55d-b0d0-4c27-a233-9cfbe32314a6" />
+
+
 <img width="1024" height="768" alt="4F2B6514-BE4B-4971-BB62-D8D16B694F5B_1_105_c" src="https://github.com/user-attachments/assets/4a27fda4-26dc-42ac-a6f9-fdf686da9348" />
 
 # 🇪🇸 Español
