@@ -39,19 +39,9 @@ Permite ademas conectar dos mandos simultaneos diferentes.
 
 El proyecto incluye, entre otros componentes:
 
-- MFi Controller Lab.
-- Driver 4.0.
-- Runtime Híbrida 3.0.
-- Soporte para múltiples perfiles de mando.
-- TEST de mandos.
-- Remapeo de controles.
-- Gestión de layouts e imágenes.
-- Importador de mandos genéricos.
-- Detección y tratamiento de mandos físicos.
-- Productores y bridges necesarios para el funcionamiento del sistema.
-- Integración con RetroArch.
-- Sistema de verificación y recuperación de componentes.
+-Un driver que hace que los mandos importados se reconocan como MFi. Los que ya estan importados simplemente se enlazan o bien por Ajustes>Bluetooth o bien dentro de la app en Emparejar / Preparar mando en caso de que no aparezca en el primer lugar.
 
+-Una App que permite Importar Mandos, Remapear botones, hacer shortcuts para retroarch y un test de botones de mandos. 
 La distribución pública contiene **binarios precompilados**.
 
 El código fuente del proyecto no se distribuye actualmente.
@@ -265,18 +255,10 @@ It also allows for the connection of two different controllers simultaneously.
 
 The project includes, among other components:
 
-- MFi Controller Lab.
-- Driver 4.0.
-- Hybrid Runtime 3.0.
-- Support for multiple controller profiles.
-- Controller TEST system.
-- Controller remapping.
-- Layout and image management.
-- Generic controller importer.
-- Detection and handling of physical controllers.
-- Producers and bridges required for system operation.
-- RetroArch integration.
-- Component verification and recovery system.
+-A driver that allows imported controllers to be recognized as MFi devices. Controllers that have already been imported can be paired either via Settings > Bluetooth or within the app under "Pair / Prepare Controller" if they do not appear initially.
+
+-An app that allows you to import controllers, remap buttons, create shortcuts for RetroArch, and test controller buttons.
+The public release includes **precompiled binaries**.
 
 The public distribution contains **precompiled binaries**.
 
