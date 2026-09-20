@@ -93,8 +93,6 @@ Añade la siguiente fuente en Cydia:
 
 Después busca **MFi Controller Lab** e instala el paquete.
 
-### Instalación manual
-
 ---
 
 ## Antes de instalar
@@ -186,16 +184,7 @@ Los componentes, bibliotecas, marcas y programas de terceros continúan sujetos 
 com.davidfores.mficontrollerlab_1.0.97-205_iphoneos-arm.deb
 
 SHA-256:
-bca7ba9e3753f7c2022972fb9d7d8e8f519c26b8c5e3fc56dd4f75b1e771f7a4
-```
-
-### Paquete público completo
-
-```text
-MFiControllerLab_PUBLIC_RELEASE_1.0.97-205_20260918_014307.zip
-
-SHA-256:
-f6f32cec0ead730f8b6e3e18e94007270b425c8d4b283a6f4ec483f6b3729c05
+2662c8d33ad6fb3cd95a064e71716d2fbb0f4c46b99f58b875b71761b62d7513
 ```
 
 ---
@@ -311,8 +300,6 @@ Add the following source to Cydia:
 
 Then search for **MFi Controller Lab** and install the package.
 
-### Manual installation
-
 ---
 
 ## Before installing
@@ -404,16 +391,7 @@ Third-party components, libraries, trademarks, and software remain subject to th
 com.davidfores.mficontrollerlab_1.0.97-205_iphoneos-arm.deb
 
 SHA-256:
-bca7ba9e3753f7c2022972fb9d7d8e8f519c26b8c5e3fc56dd4f75b1e771f7a4
-```
-
-### Complete public release archive
-
-```text
-MFiControllerLab_PUBLIC_RELEASE_1.0.97-205_20260918_014307.zip
-
-SHA-256:
-f6f32cec0ead730f8b6e3e18e94007270b425c8d4b283a6f4ec483f6b3729c05
+2662c8d33ad6fb3cd95a064e71716d2fbb0f4c46b99f58b875b71761b62d7513
 ```
 
 ---
