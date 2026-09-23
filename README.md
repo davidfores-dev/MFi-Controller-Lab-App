@@ -2,7 +2,13 @@
 
 <img width="1024" height="768" alt="ipad 8bitdo" src="https://github.com/user-attachments/assets/2295d583-e0c9-40cc-a2e8-574885e43b41" />
 
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=S5qyeS3hDXE">
+    <img src="https://img.youtube.com/vi/S5qyeS3hDXE/maxresdefault.jpg"
+         alt="MFi Controller Lab - Video Demo"
+         width="800">
+  </a>
+</p>
 
 <img width="1024" height="768" alt="4F2B6514-BE4B-4971-BB62-D8D16B694F5B_1_105_c" src="https://github.com/user-attachments/assets/4a27fda4-26dc-42ac-a6f9-fdf686da9348" />
 
